@@ -189,7 +189,7 @@ const COVER = `
   </div>
   <div class="meta">
     <p>在线版（含交互 Mermaid 图表）</p>
-    <p><a href="https://bcefghj.github.io/claude-code-complete-guide_v2/" style="color:#c4623e;">https://bcefghj.github.io/claude-code-complete-guide_v2/</a></p>
+    <p><a href="https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2" style="color:#c4623e;">https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2</a></p>
     <p style="margin-top:20px;">2026 年 4 月</p>
   </div>
 </div>
@@ -218,7 +218,7 @@ ${bodyHtml}
 <div style="text-align:center; margin-top:60px; padding-top:20px; border-top:1px solid #ddd; color:#999; font-size:8pt;">
   <p>Claude Code 完全指南 V2 | 仅用于教育学习目的</p>
   <p>Claude Code 源码版权归 Anthropic, PBC 所有 | MIT License</p>
-  <p><a href="https://github.com/bcefghj/claude-code-complete-guide_v2">https://github.com/bcefghj/claude-code-complete-guide_v2</a></p>
+  <p><a href="https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2">https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2</a></p>
 </div>
 </body>
 </html>`;

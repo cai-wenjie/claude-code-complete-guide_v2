@@ -6,7 +6,7 @@
 
 ## 在线阅读
 
-**[点击这里在线阅读](https://bcefghj.github.io/claude-code-complete-guide_v2)**
+**[在线阅读（AtomGit，国内直连）](https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2/tree/main/docs)**
 
 ## 下载 PDF
 

@@ -9,7 +9,7 @@ PDF 版本包含全部 20 篇 187 节内容，带有完整书签导航。
 ::: tip 推荐在线阅读
 在线版本包含交互式 Mermaid 架构图、全文搜索、暗色模式等功能，体验更佳。
 
-[在线阅读](https://bcefghj.github.io/claude-code-complete-guide_v2/)
+[在线阅读（AtomGit 国内直连）](https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2/tree/main/docs)
 :::
 
 ### PDF 特点
