@@ -374,12 +374,11 @@ export default withMermaid(
       },
 
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/bcefghj/claude-code-complete-guide_v2' }
-      ],
+          { icon: 'github', link: 'https://github.com/cai-wenjie/claude-code-complete-guide_v2' }
+        ],
 
-      editLink: {
-        pattern: 'https://github.com/bcefghj/claude-code-complete-guide_v2/edit/main/docs/:path',
-        text: '在 GitHub 上编辑此页'
+        editLink: {
+          pattern: 'https://github.com/cai-wenjie/claude-code-complete-guide_v2/edit/main/docs/:path',
       },
 
       lastUpdated: {

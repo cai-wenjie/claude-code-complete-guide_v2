@@ -16,8 +16,8 @@ hero:
       text: 下载 PDF
       link: /claude-code-complete-guide_v2/claude-code-complete-guide-v2.pdf
     - theme: alt
-      text: GitHub
-      link: https://github.com/bcefghj/claude-code-complete-guide_v2
+      text: AtomGit
+      link: https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2
 
 features:
   - icon: "\U0001F4DA"

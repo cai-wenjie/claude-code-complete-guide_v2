@@ -2,7 +2,7 @@
 
 ## PDF 版本
 
-**[前往 GitHub Release 页面下载 PDF (带书签, ~28MB)](https://github.com/bcefghj/claude-code-complete-guide_v2/releases/tag/v2.0.0)**
+**[下载 PDF (带书签, ~12MB)](/claude-code-complete-guide-v2.pdf)**
 
 PDF 版本包含全部 20 篇 187 节内容，带有完整书签导航。
 
@@ -31,7 +31,7 @@ PDF 版本包含全部 20 篇 187 节内容，带有完整书签导航。
 运行以下命令构建离线 HTML：
 
 ```bash
-git clone https://github.com/bcefghj/claude-code-complete-guide_v2.git
+git clone https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2.git
 cd claude-code-complete-guide_v2
 npm install
 npm run docs:build
@@ -42,6 +42,6 @@ npm run docs:build
 
 | 资源 | 链接 |
 |------|------|
-| V2 仓库 | [GitHub](https://github.com/bcefghj/claude-code-complete-guide_v2) |
+| V2 仓库 | [AtomGit](https://atomgit.com/gcw_a7vmrb8o/claude-code-complete-guide_v2)、[GitHub 镜像](https://github.com/cai-wenjie/claude-code-complete-guide_v2) |
 | Claude Code 源码 | [GitHub](https://github.com/bcefghj/Claude-Code-Source) |
 | 解读资料 | [GitHub](https://github.com/bcefghj/Claude-Code-Source-Analysis) |
